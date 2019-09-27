@@ -1,0 +1,6 @@
+D:\Учёба\ДО\MinOstov\MinOstov\bin\Release\MinOstov.exe.config
+D:\Учёба\ДО\MinOstov\MinOstov\bin\Release\MinOstov.exe
+D:\Учёба\ДО\MinOstov\MinOstov\bin\Release\MinOstov.pdb
+D:\Учёба\ДО\MinOstov\MinOstov\obj\Release\MinOstov.csproj.CoreCompileInputs.cache
+D:\Учёба\ДО\MinOstov\MinOstov\obj\Release\MinOstov.exe
+D:\Учёба\ДО\MinOstov\MinOstov\obj\Release\MinOstov.pdb

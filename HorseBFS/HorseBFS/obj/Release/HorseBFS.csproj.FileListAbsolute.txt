@@ -1,0 +1,7 @@
+D:\Учёба\ДО\HorseBFS\HorseBFS\bin\Release\HorseBFS.exe.config
+D:\Учёба\ДО\HorseBFS\HorseBFS\bin\Release\HorseBFS.exe
+D:\Учёба\ДО\HorseBFS\HorseBFS\bin\Release\HorseBFS.pdb
+D:\Учёба\ДО\HorseBFS\HorseBFS\obj\Release\HorseBFS.csprojAssemblyReference.cache
+D:\Учёба\ДО\HorseBFS\HorseBFS\obj\Release\HorseBFS.csproj.CoreCompileInputs.cache
+D:\Учёба\ДО\HorseBFS\HorseBFS\obj\Release\HorseBFS.exe
+D:\Учёба\ДО\HorseBFS\HorseBFS\obj\Release\HorseBFS.pdb
