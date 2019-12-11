@@ -1,0 +1,13 @@
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\CompleteMatching.exe.config
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\CompleteMatching.exe
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\CompleteMatching.pdb
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\obj\Debug\CompleteMatching.csprojAssemblyReference.cache
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\obj\Debug\CompleteMatching.csproj.CoreCompileInputs.cache
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\obj\Debug\CompleteMatching.exe
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\obj\Debug\CompleteMatching.pdb
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\nunit.framework.dll
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\nunit.framework.pdb
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\nunit.framework.xml
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\obj\Debug\CompleteMatching.csproj.CopyComplete
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\dotMemory.Unit.dll
+D:\Учёба\ДО\CompleteMatching\CompleteMatching\bin\Debug\dotMemory.Unit.xml

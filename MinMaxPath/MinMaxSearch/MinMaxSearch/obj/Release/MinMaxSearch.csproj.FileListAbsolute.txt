@@ -1,0 +1,11 @@
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\MinMaxSearch.exe.config
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\MinMaxSearch.exe
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\MinMaxSearch.pdb
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\nunit.framework.dll
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\nunit.framework.pdb
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\bin\Release\nunit.framework.xml
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\obj\Release\MinMaxSearch.csproj.CoreCompileInputs.cache
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\obj\Release\MinMaxSearch.csproj.CopyComplete
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\obj\Release\MinMaxSearch.exe
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\obj\Release\MinMaxSearch.pdb
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\MinMaxSearch\obj\Release\MinMaxSearch.csprojAssemblyReference.cache

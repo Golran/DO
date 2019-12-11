@@ -1,0 +1,6 @@
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\b\MinMaxSearch.exe.config
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\b\MinMaxSearch.exe
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\i\MinMaxSearch\Debug\MinMaxSearch.csproj.CoreCompileInputs.cache
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\i\MinMaxSearch\Debug\MinMaxSearch.csproj.CopyComplete
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\i\MinMaxSearch\Debug\MinMaxSearch.exe
+D:\Учёба\ДО\MinMaxPath\MinMaxSearch\.vs\MinMaxSearch\lut\0\i\MinMaxSearch\Debug\MinMaxSearch.csprojAssemblyReference.cache
